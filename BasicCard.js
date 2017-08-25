@@ -4,4 +4,4 @@ var BasicCard = function(front, back) {
   this.back = name;
 };
 
-module.exports = basicCard.js
+module.exports = BasicCard.js
